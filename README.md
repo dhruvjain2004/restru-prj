@@ -1,4 +1,4 @@
-# La Bella Vista - Restaurant Website
+# The Jain's - Restaurant Website
 
 A beautiful, responsive restaurant website built with HTML, CSS, and JavaScript. Features an elegant design with online menu, gallery, reservations system, and customer testimonials.
 
